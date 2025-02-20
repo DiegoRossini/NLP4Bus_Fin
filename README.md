@@ -25,8 +25,11 @@ This course is particularly designed for **students of Financial Communication**
 - Hands-on exercises with **Google Colab** 
 
 ### **📂 Colab Notebooks:**  
-- **1 - Simple Sentiment Analysis Models** 👉 [Open](https://drive.google.com/file/d/183gSRV7onCxmGkn5jFJB8y7F-eMYTFp0/view?usp=drive_link)  
-- **1 - Homeworks** 👉 [Open](https://drive.google.com/file/d/13K0AvKelF_cQ2a46lwde8C37Fjea0gKr/view?usp=drive_link)  
+#### **1 - Simple Sentiment Analysis Models**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/183gSRV7onCxmGkn5jFJB8y7F-eMYTFp0/view?usp=drive_link)  
+
+#### **1 - Homeworks**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/13K0AvKelF_cQ2a46lwde8C37Fjea0gKr/view?usp=drive_link)  
 
 ---
 
