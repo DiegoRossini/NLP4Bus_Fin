@@ -43,10 +43,11 @@ This course is particularly designed for **students of Financial Communication**
 
 ### **📂 Colab Notebooks:**  
 #### **1 - Word Vector Representation Examples**  
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/EXAMPLE_DRIVE_ID_WORD_VECTOR](https://colab.research.google.com/drive/1MnsSwoWEE31kpwdSI2fcqFsYDpDjd_XL#scrollTo=WYexTDhD_KUM))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MnsSwoWEE31kpwdSI2fcqFsYDpDjd_XL#scrollTo=WYexTDhD_KUM)
 
 #### **2 - Homeworks**  
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/EXAMPLE_DRIVE_ID_WORD_VECTOR_HW](https://colab.research.google.com/drive/1grWOENI8iW5N4BUY6DsAT7aQodr8eZS_#scrollTo=maAYPijzCYFS))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1grWOENI8iW5N4BUY6DsAT7aQodr8eZS_#scrollTo=maAYPijzCYFS)
+
 ---
 
 
