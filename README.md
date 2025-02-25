@@ -33,5 +33,22 @@ This course is particularly designed for **students of Financial Communication**
 
 ---
 
+## **📖 Lesson 2: Simple Word Vector Representation**
+
+### **Lesson Content:**  
+- Introduction to **Word Vectors**  
+- Understanding **One-Hot Encoding** and **Count Vectorization**  
+- Overview of **TF-IDF**  
+- Hands-on exercises with **Google Colab**
+
+### **📂 Colab Notebooks:**  
+#### **1 - Word Vector Representation Examples**  
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/EXAMPLE_DRIVE_ID_WORD_VECTOR](https://colab.research.google.com/drive/1MnsSwoWEE31kpwdSI2fcqFsYDpDjd_XL#scrollTo=WYexTDhD_KUM))
+
+#### **2 - Homeworks**  
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/EXAMPLE_DRIVE_ID_WORD_VECTOR_HW](https://colab.research.google.com/drive/1grWOENI8iW5N4BUY6DsAT7aQodr8eZS_#scrollTo=maAYPijzCYFS))
+---
+
+
 More lessons will be added soon!
 
