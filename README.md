@@ -50,6 +50,19 @@ This course is particularly designed for **students of Financial Communication**
 
 ---
 
+## **📖 Lesson 3: Probability Theory**  
+
+### **Lesson Content:**  
+- Introduction to **Probability Theory**  
+- Simple and Conditional Probabilities  
+- Independent vs. Dependent Events  
+- The **Naive Bayes Hypothesis**  
+- Hands-on exercises with **Google Colab**  
+
+### **📂 Colab Notebook:**  
+#### **1 - Probability Theory Fundamentals**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/3_Probabilities_foundamentals)
+
+---
 
 More lessons will be added soon!
-
