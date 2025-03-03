@@ -61,7 +61,7 @@ This course is particularly designed for **students of Financial Communication**
 
 ### **📂 Colab Notebook:**  
 #### **1 - Probability Theory Fundamentals**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/3_Probabilities_foundamentals)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/3_Probabilities_foundamentals](https://colab.research.google.com/drive/1VnA1oQtJgFjzZcqZgWKezbzZpC1RlNAg))
 
 ---
 
@@ -75,10 +75,10 @@ This course is particularly designed for **students of Financial Communication**
 
 ### **📂 Colab Notebooks:**  
 #### **1 - Naive Bayes Binary Classifier**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/4_Naive_Bayes_Classifier)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/148GNw4h8scZdcXKAYO6O-luuAoKOo4lv#scrollTo=R20pDZ6sUezt)
 
 #### **2 - Homeworks**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/4_Homeworks)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1njU_93CLtvfpCWX9MjlHF1zTy5SAb8Bo#scrollTo=gbUj174IXq_c)
 
 ---
 
