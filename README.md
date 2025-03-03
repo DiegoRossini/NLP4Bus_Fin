@@ -65,4 +65,21 @@ This course is particularly designed for **students of Financial Communication**
 
 ---
 
+## **📖 Lesson 4: Naive Bayes Binary Classifier**  
+
+### **Lesson Content:**  
+- Understanding the **Naive Bayes Classifier**  
+- Application of **Bayes' Theorem** in NLP  
+- Building a **Binary Text Classifier**  
+- Hands-on exercises with **Google Colab**  
+
+### **📂 Colab Notebooks:**  
+#### **1 - Naive Bayes Binary Classifier**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/4_Naive_Bayes_Classifier)
+
+#### **2 - Homeworks**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/4_Homeworks)
+
+---
+
 More lessons will be added soon!
