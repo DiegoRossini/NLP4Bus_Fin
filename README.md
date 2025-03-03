@@ -25,10 +25,10 @@ This course is particularly designed for **students of Financial Communication**
 - Hands-on exercises with **Google Colab** 
 
 ### **📂 Colab Notebooks:**  
-#### **1 - Simple Sentiment Analysis Models**  
+#### **1 - Simple Sentiment Analysis Models (Homework questions at the end)**  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/183gSRV7onCxmGkn5jFJB8y7F-eMYTFp0)
 
-#### **1 - Homeworks**  
+#### **1 - Coding Homeworks**  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13K0AvKelF_cQ2a46lwde8C37Fjea0gKr)
 
 ---
@@ -42,10 +42,10 @@ This course is particularly designed for **students of Financial Communication**
 - Hands-on exercises with **Google Colab**
 
 ### **📂 Colab Notebooks:**  
-#### **1 - Word Vector Representation Examples**  
+#### **1 - Word Vector Representation Examples (Homework questions at the end)**  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MnsSwoWEE31kpwdSI2fcqFsYDpDjd_XL#scrollTo=WYexTDhD_KUM)
 
-#### **2 - Homeworks**  
+#### **2 - Coding Homeworks**  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1grWOENI8iW5N4BUY6DsAT7aQodr8eZS_#scrollTo=maAYPijzCYFS)
 
 ---
@@ -60,7 +60,7 @@ This course is particularly designed for **students of Financial Communication**
 - Hands-on exercises with **Google Colab**  
 
 ### **📂 Colab Notebook:**  
-#### **1 - Probability Theory Fundamentals**  
+#### **1 - Probability Theory Fundamentals (Homework questions at the end)**  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VnA1oQtJgFjzZcqZgWKezbzZpC1RlNAg)
 
 ---
@@ -77,7 +77,7 @@ This course is particularly designed for **students of Financial Communication**
 #### **1 - Naive Bayes Binary Classifier**  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/148GNw4h8scZdcXKAYO6O-luuAoKOo4lv#scrollTo=R20pDZ6sUezt)
 
-#### **2 - Homeworks**  
+#### **2 - Coding Homeworks**  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1njU_93CLtvfpCWX9MjlHF1zTy5SAb8Bo#scrollTo=gbUj174IXq_c)
 
 ---
