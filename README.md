@@ -61,7 +61,7 @@ This course is particularly designed for **students of Financial Communication**
 
 ### **📂 Colab Notebook:**  
 #### **1 - Probability Theory Fundamentals**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/3_Probabilities_foundamentals](https://colab.research.google.com/drive/1VnA1oQtJgFjzZcqZgWKezbzZpC1RlNAg))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VnA1oQtJgFjzZcqZgWKezbzZpC1RlNAg)
 
 ---
 
