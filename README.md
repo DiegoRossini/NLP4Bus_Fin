@@ -82,4 +82,33 @@ This course is particularly designed for **students of Financial Communication**
 
 ---
 
+## **📖 Lesson 5: Logistic Regression Algorithm**  
+
+### **Lesson Content:**  
+- Understanding **Logistic Regression** in NLP  
+- How **Logistic Regression** is used for business decision-making  
+- **Multiclass classification** in text processing  
+- Hands-on exercises with **Google Colab**  
+
+### **📂 Colab Notebooks:**  
+#### **1 - Logistic Regression Algorithm**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KvIA1gA041YjQtNHh3ENzyzd7B4V4Sr0)  
+
+---
+
+## **📖 Lesson 6: Logistic Regression – Decision Suggestion & Homeworks**  
+
+### **Lesson Content:**  
+- Applying **Logistic Regression** to suggest actionable business decisions  
+- Interpreting model predictions to drive informed decision-making  
+- Hands-on exercises and homeworks for practical reinforcement  
+
+### **📂 Colab Notebooks:**  
+#### **1 - Logistic Regression Decision Suggestion**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SzGHwj4Pk-acS5-7k_RIBl6Vs6z1l4lM)  
+
+#### **2 - Homeworks**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LiaMvYXwlPHdCcvh4m1D3HJEmIbuaXzl)  
+
+---
 More lessons will be added soon!
