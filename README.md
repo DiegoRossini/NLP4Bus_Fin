@@ -111,4 +111,19 @@ This course is particularly designed for **students of Financial Communication**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LiaMvYXwlPHdCcvh4m1D3HJEmIbuaXzl)  
 
 ---
+
+## **📖 Lesson 7: Word Embeddings**
+
+### **Lesson Content:**  
+- Introduction to different word embedding techniques (Word2Vec, FastText, and GloVe)  
+- Understanding and utilizing pre-trained word vectors  
+- Exploring semantic similarity using cosine similarity and dot product
+
+
+### **📂 Colab Notebooks:**  
+#### **1 - Word Embeddings Techniques (Hands-on Exercises adn Questions)**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OHaWu3Ae_dRAJ54laggIZLN5eNa1U0no)
+
+---
+
 More lessons will be added soon!
