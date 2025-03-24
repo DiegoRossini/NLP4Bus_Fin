@@ -129,7 +129,7 @@ This course is particularly designed for **students of Financial Communication**
 ## **📖 Lesson 8: Neural Network Code Along**
 
 ### **Lesson Content:**
-- **Neural Network Code Along:** Learn by doing with guided exercises on neural network implementation.
+- Learn by doing with guided exercises on neural network implementation.
 
 ### **📂 Colab Notebooks:**
 #### **1 - NN Code Along**
