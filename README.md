@@ -126,4 +126,31 @@ This course is particularly designed for **students of Financial Communication**
 
 ---
 
+## **📖 Lesson 8: Neural Network Code Along**
+
+### **Lesson Content:**
+- **Neural Network Code Along:** Learn by doing with guided exercises on neural network implementation.
+
+### **📂 Colab Notebooks:**
+#### **1 - NN Code Along**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MyQBblskBLcxnZdUZIe7e68FzGIcvJrT)
+
+#### **2 - Homeworks**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17OtZCj8VKs4Jvdf7D-C1EpCqJpxJSX8M)
+
+---
+
+## **📖 Lesson 9: Attention Mechanism & Transformers**
+
+### **Lesson Content:**
+- Introduction to the **Attention Mechanism** and its role in modern NLP.
+- Overview of **Transformers** and how they power state-of-the-art language models.
+- Hands-on exercises with **Google Colab** to experiment with attention-based models.
+
+### **📂 Colab Notebook:**
+#### **1 - Attention Mechanism**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tYSBqKjxjBkWxDjbykwOtZw2W5zkF1I1#scrollTo=wQGeJ_5ny_Tf)
+
+---
+
 More lessons will be added soon!
