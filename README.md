@@ -170,6 +170,19 @@ This course is particularly designed for **students of Financial Communication**
 
 ---
 
+## **📖 Lesson 11: Prompt Engineering Basics**  
+
+### **Lesson Content:**  
+- Understanding **Zero-Shot, One-Shot, and Few-Shot Learning**  
+- How **Large Language Models (LLMs)** process prompts  
+- Hands-on examples using **pre-trained open-source models**  
+- Best practices for **effective prompt engineering**  
+
+### **📂 Colab Notebooks:**  
+#### **1 - Prompt Engineering: Zero-Shot, One-Shot, Few-Shot Learning**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s3ySPOR7qoWdTCUnMtyug4cwAO_A9Max#scrollTo=N-LoVkf_G_sG)  
+
+#### **2 - Homeworks**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZXsABb_BwNr7c7JKzLl75NdZ3LJjANkw#scrollTo=tJJDW8PrUGWJ)  
 
 ---
-More lessons will be added soon!
