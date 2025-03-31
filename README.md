@@ -153,4 +153,23 @@ This course is particularly designed for **students of Financial Communication**
 
 ---
 
+## **📖 Lesson 10: Retrieval-Augmented Generation (RAG)**
+
+### **Lesson Content:**  
+- Understanding **Retrieval-Augmented Generation (RAG)** in NLP  
+- Key components: **Retrieval and Generation**  
+- Applications of RAG in **business and finance**  
+- Hands-on exercises with **Google Colab**  
+
+### **📂 Colab Notebooks:**  
+#### **1 - RAG: Retrieval-Augmented Generation**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lz0Df7JJWGoh-BAbC9ASshHl4SfZqf2N#scrollTo=QexrDQVzlphi)  
+
+#### **2 - Homeworks**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KMciYG1Sqm6enRKR-hzCLemTv63h3a4u#scrollTo=0GEoHjtrajBa)  
+
+---
+
+
+---
 More lessons will be added soon!
