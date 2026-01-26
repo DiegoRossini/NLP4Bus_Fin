@@ -27,5 +27,5 @@ This course is particularly designed for **students of Financial Communication**
 
 ### **Colab Notebook:**
 #### **0 - Python and NLP Foundations**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jRPxIm600QPXLeVAHWGPaWct-0_fjlso)
+<a href="https://colab.research.google.com/drive/1jRPxIm600QPXLeVAHWGPaWct-0_fjlso" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 ---
