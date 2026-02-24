@@ -30,3 +30,19 @@ This course is particularly designed for **students of Financial Communication**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jRPxIm600QPXLeVAHWGPaWct-0_fjlso)
 
 ---
+
+## **Lesson 1: Simple Rule-Based Model**
+**Tuesday, 24th February | 09:00 - 10:30**
+
+### **Lesson Content:**
+- Building a simple **rule-based sentiment classifier**
+- Using **positive** and **negative** word lists
+- Hands-on exercises with **Google Colab**
+
+### **Colab Notebooks:**
+#### **1 - Simple Rule-Based Model**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U4nand0vk7owVlcCxP1GbT8jbDb2lLY4)
+
+#### **1 - Coding Homeworks**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SCRrpZmJx24XDEPpx4voKw0qFk-Fs15x)
+---
