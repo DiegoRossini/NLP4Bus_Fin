@@ -59,6 +59,6 @@ This course is particularly designed for **students of Financial Communication**
 
 ### **Colab Notebook:**
 #### **2 - Simple Vector Representations**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eqvaynSRtFjem9LpI5LA3Qwb4-NNbwDb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sjBPmPF2nInshHz0bCyURJ00RYrVpkcO)
 
 ---
