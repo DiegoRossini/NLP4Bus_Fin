@@ -45,4 +45,20 @@ This course is particularly designed for **students of Financial Communication**
 
 #### **1 - Coding Homeworks**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SCRrpZmJx24XDEPpx4voKw0qFk-Fs15x)
+
+---
+
+## **Lesson 2: Simple Vector Representations**
+**Monday, 2nd March | 13:30 - 15:00**
+
+### **Lesson Content:**
+- Building a **vocabulary** from text
+- **One-Hot Encoding** (representing a single word)
+- **Bag of Words** (representing a whole text)
+- **TF-IDF** (a smarter way to weight words)
+
+### **Colab Notebook:**
+#### **2 - Simple Vector Representations**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eqvaynSRtFjem9LpI5LA3Qwb4-NNbwDb)
+
 ---
