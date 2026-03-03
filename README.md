@@ -62,3 +62,21 @@ This course is particularly designed for **students of Financial Communication**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sjBPmPF2nInshHz0bCyURJ00RYrVpkcO)
 
 ---
+
+## **Lesson 3: Data Preparation**
+**Tuesday, 3rd March | 09:00 - 10:30**
+
+### **Lesson Content:**
+- Using **libraries** (pandas, spaCy, numpy)
+- Loading data from **CSV files**
+- Working with **DataFrames**
+- Text preprocessing: **tokenization/lemmatization**, **stopwords removal**,
+- Applying **Bag of Words** and **TF-IDF** to real data
+- Hands-on exercises with **Google Colab**
+
+### **Colab Notebooks:**
+#### **3 - Data Preparation**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16ewHJpwh4IEv9VftHOn8EAQ9zdJ5v3Kq#scrollTo=lLM_fDYbNWtO)
+
+#### **3 - Coding Homeworks**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JFo8JypDH1J_yN4BEiieiNGJ5DapaHzS)
