@@ -76,7 +76,7 @@ This course is particularly designed for **students of Financial Communication**
 
 ### **Colab Notebooks:**
 #### **3-4 - Data Preparation**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16ewHJpwh4IEv9VftHOn8EAQ9zdJ5v3Kq#scrollTo=lLM_fDYbNWtO)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XcajXENgczu4sW6eoGPotZFN_WPnUTs2#scrollTo=g_BscrWYwCj2)
 
 #### **3-4 - Coding Homeworks**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XcajXENgczu4sW6eoGPotZFN_WPnUTs2#scrollTo=g_BscrWYwCj2)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JFo8JypDH1J_yN4BEiieiNGJ5DapaHzS)
