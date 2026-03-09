@@ -63,7 +63,7 @@ This course is particularly designed for **students of Financial Communication**
 
 ---
 
-## **Lesson 3: Data Preparation**
+## **Lesson 3-4: Data Preparation**
 **Tuesday, 3rd March | 09:00 - 10:30**
 
 ### **Lesson Content:**
@@ -75,8 +75,8 @@ This course is particularly designed for **students of Financial Communication**
 - Hands-on exercises with **Google Colab**
 
 ### **Colab Notebooks:**
-#### **3 - Data Preparation**
+#### **3-4 - Data Preparation**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16ewHJpwh4IEv9VftHOn8EAQ9zdJ5v3Kq#scrollTo=lLM_fDYbNWtO)
 
-#### **3 - Coding Homeworks**
+#### **3-4 - Coding Homeworks**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JFo8JypDH1J_yN4BEiieiNGJ5DapaHzS)
