@@ -80,3 +80,23 @@ This course is particularly designed for **students of Financial Communication**
 
 #### **3-4 - Coding Homeworks**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JFo8JypDH1J_yN4BEiieiNGJ5DapaHzS)
+
+---
+
+## **Lesson 5: Probabilities**
+**Monday, 9th March | 13:30 - 15:00**
+
+### **Lesson Content:**
+- Introduction to **probabilities**
+- **Probability theory** fundamentals
+- **Independent** vs **dependent** events
+- **Conditional probability**
+- **Bayes' Theorem**
+- Hands-on exercises with **Google Colab**
+- 
+### **Colab Notebook:**
+#### **5 - Probabilities**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vY-h1T85qbeBRt-7TrBgpIgC_KqqVktj#scrollTo=Er8ELTneef7K)
+
+#### **5 - Coding Homeworks**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d9DSbD-Y9ztR06t2lO673VPjVrVWilaP)
