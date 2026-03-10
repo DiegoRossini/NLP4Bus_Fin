@@ -43,7 +43,7 @@ This course is particularly designed for **students of Financial Communication**
 #### **1 - Simple Rule-Based Model**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U4nand0vk7owVlcCxP1GbT8jbDb2lLY4)
 
-#### **1 - Coding Homeworks**
+#### **1 - Coding Homework**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SCRrpZmJx24XDEPpx4voKw0qFk-Fs15x)
 
 ---
@@ -78,7 +78,7 @@ This course is particularly designed for **students of Financial Communication**
 #### **3-4 - Data Preparation**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XcajXENgczu4sW6eoGPotZFN_WPnUTs2#scrollTo=g_BscrWYwCj2)
 
-#### **3-4 - Coding Homeworks**
+#### **3-4 - Coding Homework**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JFo8JypDH1J_yN4BEiieiNGJ5DapaHzS)
 
 ---
@@ -98,5 +98,5 @@ This course is particularly designed for **students of Financial Communication**
 #### **5 - Probabilities**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vY-h1T85qbeBRt-7TrBgpIgC_KqqVktj#scrollTo=Er8ELTneef7K)
 
-#### **5 - Coding Homeworks**
+#### **5 - Coding Homework**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d9DSbD-Y9ztR06t2lO673VPjVrVWilaP)
