@@ -84,7 +84,7 @@ This course is particularly designed for **students of Financial Communication**
 ---
 
 ## **Lesson 5: Probabilities**
-**Monday, 9th March | 13:30 - 15:00**
+**Tuesday, 10th March | 09:00 - 10:30**
 
 ### **Lesson Content:**
 - Introduction to **probabilities**
@@ -93,10 +93,25 @@ This course is particularly designed for **students of Financial Communication**
 - **Conditional probability**
 - **Bayes' Theorem**
 - Hands-on exercises with **Google Colab**
-- 
+  
 ### **Colab Notebook:**
 #### **5 - Probabilities**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vY-h1T85qbeBRt-7TrBgpIgC_KqqVktj#scrollTo=Er8ELTneef7K)
 
 #### **5 - Coding Homework**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d9DSbD-Y9ztR06t2lO673VPjVrVWilaP)
+
+---
+
+## **Lesson 6: Naive Bayes Classifier**
+**Monday, 16th March | 13:30 - 15:00**
+
+### **Lesson Content:**
+- Understanding the **Naive Bayes Classifier**
+- Application of **Bayes' Theorem** in NLP
+- Building a **spam/ham classifier** with scikit-learn
+- Hands-on exercises with **Google Colab**
+
+### **Colab Notebooks:**
+#### **5 - Naive Bayes Classifier**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XRFvtfi1Ib1BSha9s-RmTIQyzhDD4Wab)
