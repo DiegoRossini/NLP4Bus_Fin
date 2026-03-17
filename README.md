@@ -115,3 +115,21 @@ This course is particularly designed for **students of Financial Communication**
 ### **Colab Notebooks:**
 #### **5 - Naive Bayes Classifier**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XRFvtfi1Ib1BSha9s-RmTIQyzhDD4Wab)
+
+---
+
+## **Lesson 7: Logistic Regression**
+**Tuesday, 17th March | 09:00 - 10:30**
+
+### **Lesson Content:**
+- Building a **Logistic Regression** classifier
+- **Sentiment analysis** on the IMDB dataset
+- Training and evaluating the model with scikit-learn
+- Hands-on exercises with **Google Colab**
+
+### **Colab Notebooks:**
+#### **7 - Logistic Regression**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rma9q6tP3lGw7prBjTBb-VZLVMINWLck#scrollTo=Cr7BB-pVEVbf)
+
+#### **7 - Coding Homeworks**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MmreGP6JNknwItJXLIxLEWIDmYGoywLn)
