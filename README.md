@@ -149,7 +149,7 @@ This course is particularly designed for **students of Financial Communication**
 
 ### **Colab Notebook:**
 #### **8 - Word Embeddings**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1OHaWu3Ae_dRAJ54laggIZLN5eNa1U0no](https://colab.research.google.com/drive/1XOywaGDh1lEX8MmhRTpRmWcMOgCGUJv6#scrollTo=M_mDyEyn9O2o))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOywaGDh1lEX8MmhRTpRmWcMOgCGUJv6#scrollTo=MRogM39J9O2e)
 
 #### **8 - Coding Homeworks**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1MmreGP6JNknwItJXLIxLEWIDmYGoywLn](https://colab.research.google.com/drive/1mANIOTK6ZblnLSESpLqnzEQD_Qe4IAkz))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mANIOTK6ZblnLSESpLqnzEQD_Qe4IAkz)
