@@ -153,3 +153,19 @@ This course is particularly designed for **students of Financial Communication**
 
 #### **8 - Coding Homeworks**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mANIOTK6ZblnLSESpLqnzEQD_Qe4IAkz)
+
+---
+
+## **Lesson 9: Attention and Transformers**
+**Monday, 30th March | 13:30 - 15:00**
+
+### **Lesson Content:**
+- Introduction to the **Attention Mechanism**
+- Overview of **Transformers** architecture
+- Using **GPT-2** for text generation
+- **Translation** with pre-trained models
+- Working with **Hugging Face Transformers**
+
+### **Colab Notebook:**
+#### **9 - Attention and Transformers**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MtspibHV5xOtBGOU0anK1h1-9bVYRuEb#scrollTo=4K6U81vixJ-E)
