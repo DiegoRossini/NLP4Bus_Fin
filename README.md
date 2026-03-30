@@ -169,3 +169,22 @@ This course is particularly designed for **students of Financial Communication**
 ### **Colab Notebook:**
 #### **9 - Attention and Transformers**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MtspibHV5xOtBGOU0anK1h1-9bVYRuEb#scrollTo=4K6U81vixJ-E)
+
+---
+
+## **10: Retrieval-Augmented Generation (RAG)**
+**Tuesday, 31th March | 09:00 - 10:30**
+
+### **Lesson Content:**
+- Understanding **Retrieval-Augmented Generation (RAG)**
+- Key components: **Retrieval** and **Generation**
+- Building a RAG system with **LangChain** and **FAISS**
+
+### **Colab Notebooks:**
+#### **10 - RAG: Retrieval-Augmented Generation**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Bz8W3s7jk1P9UMfjabRq5qK8Er0tfkCG#scrollTo=t_xYqCArlphf)
+
+#### **10 - Coding Homeworks**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gEQQSh5SMo9NjpAq8SiHy2i0Rl_K2HeO#scrollTo=Z7gwI3rJUrXM)
+
+---
